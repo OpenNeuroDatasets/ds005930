@@ -2,13 +2,12 @@
   "Name": "BallSqueezingHD_Gao2023",
   "BIDSVersion": "1.8.0",
   "DatasetType": "raw",
-  "License": "CC0",
   "Authors": [
     "Yuanyuan Gao",
     "De'Ja Rogers",
-    "Alexander von Luhmann",
+    "Alexander von Lühmann",
     "Antonio Ortega-Martinez",
     "David A. Boas",
-    "Meryem A. Yucel"
+    "Meryem A. Yücel"
   ]
 }
