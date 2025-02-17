@@ -1,0 +1,15 @@
+{
+    "Name": "BallSqueezingHD_Gao2023",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Yuanyuan Gao",
+        "De'Ja Rogers",
+        "Alexander von Luhmann",
+        "Antonio Ortega-Martinez",
+        "David A. Boas",
+        "Meryem A. Yucel"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds005930.v1.0.0"
+}
